@@ -1,3 +1,4 @@
 # tyche
 c++ exercise
-this is the exercise of tyche from caption4
+
+this is the exercise of tyche from task4
